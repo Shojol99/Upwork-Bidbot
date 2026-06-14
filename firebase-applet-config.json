@@ -1,0 +1,11 @@
+{
+  "projectId": "bidbot-dfa30",
+  "appId": "1:978591333920:web:d0dea8edfecd997a904645",
+  "apiKey": "AIzaSyCp_0-RG7ASATIbq5KVF2GicffCwce4TqE",
+  "authDomain": "bidbot-dfa30.firebaseapp.com",
+  "databaseURL": "https://bidbot-dfa30-default-rtdb.firebaseio.com",
+  "storageBucket": "bidbot-dfa30.firebasestorage.app",
+  "messagingSenderId": "978591333920",
+  "measurementId": "G-GPKTXL8ZB5",
+  "firestoreDatabaseId": "(default)"
+}

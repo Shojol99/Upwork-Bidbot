@@ -1,0 +1,6 @@
+{
+  "name": "Upwork BidBot",
+  "description": "An AI-powered proposal assistant for Upwork freelancers, trained on personal writing styles and successful bids using local LLMs and RAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
